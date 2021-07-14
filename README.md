@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kalarkin
 - 👀 I’m interested using github to recurite 
-- 🌱 I’m currently learning who would be interested in the types of positon I have available
-- 💞️ I’m looking to collaborate on whom ever is interetsed in looking for a new project to work on
+- 🌱 I’m currently learning about how to use github to recruite great people for my position available. 
+- 💞️ I’m looking to collaborate embedded developer who are looking for new challanges to work on. 
 - 📫 How to reach me katherine@hightechgenesis.com
 
 <!---
